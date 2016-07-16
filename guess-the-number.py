@@ -1,4 +1,4 @@
-#Guess what number the random number generator generated between 1 ane 100
+#Guess what number the random number generator generated between 1 ane 10
 
 import random
 
