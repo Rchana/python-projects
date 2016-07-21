@@ -4,4 +4,5 @@ This repository contains the following mini python projects created by myself to
 - Dice simulator
 - Guess the number
 - Mad libs generator
-- Hangman 
+- Hangman
+- Alarm clock
