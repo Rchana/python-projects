@@ -1,8 +1,8 @@
-# This project is an alarm clock that allows the user to enter the number
-# of hours they would like to sleep for. The script will then take the
-# current time, add the hours and at the right time, a song will randomly
-# be selected to open on a browser and play at the correct time.
+# This project is an alarm clock that allows the user to enter how long
+# they would like to sleep for. The script will then do the math and
+# wake users up by randomly selected a song to play.
 
+# Motivation: https://www.reddit.com/r/beginnerprojects/comments/4n9hne/project_idea_alarm_clock/
 # How to get current time: http://www.cyberciti.biz/faq/howto-get-current-date-time-in-python/
 # How to pause execution momentarily: http://pythoncentral.io/pythons-time-sleep-pause-wait-sleep-stop-your-code/
 
