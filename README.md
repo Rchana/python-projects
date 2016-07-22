@@ -6,3 +6,4 @@ This repository contains the following mini python projects created by myself to
 - Mad libs generator
 - Hangman
 - Alarm clock
+- Temperature converter 

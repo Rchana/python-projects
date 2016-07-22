@@ -1,5 +1,5 @@
 # The following code allows users to convert temperature from Celsius to
-# Fahrenheit and vise-versa
+# Fahrenheit and vise-versa.
 
 print("")
 unit = str(input("Will you be converting a Celsius or Fahrenheit value [C/F]? ")).lower()
